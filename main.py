@@ -17,7 +17,7 @@ def display_word(word, guessed_letters):
 
 
 # Set up the directory path
-input_directory = pathlib.Path("/Users/macos/Desktop/songs")
+input_directory = pathlib.Path("/Users/macos/Desktop/songs") #Here Add a path to music file filled with songs 
 
 # Initialize Pygame
 pygame.init()
